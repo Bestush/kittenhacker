@@ -10,12 +10,12 @@ console.log(inputField);
 function catify(){
     input = inputField.value;
     if(input == "silenzio"){
-        alert("123456789kitten")
+        alert("637520787d9ef8dfd04dc3a5bbbb95b87876161142d91a0e3913d478a49e56c0")
     }
     else if (input == "silence"){
         alert(https://www.youtube.com/watch?v=UEnzE-NKa9A);
     }
     else
-    alert("https://www.youtube.com/watch?v=ZXsQAXx_ao0");
+    alert("https://www.youtube.com/watch?v=gJscrxxl_Bg");
    
 }

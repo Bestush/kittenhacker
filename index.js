@@ -2,17 +2,24 @@ let correctAnswer = "silenzio";
 let button = document.getElementById("hackButton");
 let closeAnswer = "silence";
 let inputField = document.getElementById("inputField");
-let input = "";
+let input = "w";
 
 
 console.log(inputField);
+input += inputField.value;
+console.log(input);
+
 
 function catify(){
+    
     input = inputField.value;
-    if(input.toLocaleLowerCase == "silenzio"){
-        alert("637520787d9ef8dfd04dc3a5bbbb95b87876161142d91a0e3913d478a49e56c0")
+console.log(input.toLowerCase());
+
+    if(input.toLowerCase() == "silenzio"){
+        alert("637520787d9ef8dfd04dc3a5bbbb95b87876161142d91a0e3913d478a49e56c0");
+        
     }
-    else if (input.toLocaleLowerCase == "silence"){
+    else if (input.toLowerCase() == "silence"){
         alert("https://www.youtube.com/watch?v=UEnzE-NKa9A");
     }
     else{

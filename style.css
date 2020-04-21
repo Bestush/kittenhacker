@@ -395,9 +395,12 @@ html {
       color: white;
       font-family: Karla;
       border-radius: 20px;
-      padding: 2rem 4rem;
+      border: 4px solid rgb(197, 197, 199);
+      padding: 10px 60px;
       font-size: 1.5rem;
       margin-top: 2rem;
+      text-align: center;
+      
   }
 
   iframe {

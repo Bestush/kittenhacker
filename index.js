@@ -9,7 +9,7 @@ console.log(inputField);
 
 function catify(){
     input = inputField.value;
-    if(input == "silenzio"){
+    if(input.toLocaleLowerCase == "silenzio"){
         alert("637520787d9ef8dfd04dc3a5bbbb95b87876161142d91a0e3913d478a49e56c0")
     }
     else if (input == "silence"){

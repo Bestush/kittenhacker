@@ -368,7 +368,7 @@ html {
   }
 
   h2 {
-      margin-top: 8rem;
+      margin-top: 7rem;
       font-size: 1.8rem;
       font-weight: lighter; 
       text-decoration: underline;
@@ -395,7 +395,7 @@ html {
       color: white;
       font-family: Karla;
       border-radius: 20px;
-      padding: 1rem 4.5rem;
+      padding: 2rem 4.5rem;
       font-size: 1.5rem;
       margin-top: 2rem;
   }

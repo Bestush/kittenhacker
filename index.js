@@ -16,6 +16,6 @@ function catify(){
         alert("https://www.youtube.com/watch?v=UEnzE-NKa9A");
     }
     else{
-    alert("https://www.youtube.com/watch?v=gJscrxxl_Bg");}
+    alert("https://youtu.be/gJscrxxl_Bg?t=13");}
    
 }
